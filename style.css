@@ -1,0 +1,44 @@
+.cuerpo {
+    background-color: bisque;
+}
+
+.titulo {
+    color: rgb(100, 2, 2);
+    text-align: center;
+    font-family: Arial; 
+}
+
+.carta {
+    text-decoration: underline rgb(87, 2, 167);
+    color: rgb(87, 2, 167);
+    position: relative;
+    top: 50px;
+}
+
+.cafe {
+    color: rgb(194, 6, 6);
+    position: relative;
+    left: 400px;
+    top: 100px;
+}
+
+.contacto {
+    color: brown;
+    position: relative;
+    left: 800px;
+    top: 170px;
+}
+
+.barra {
+    position: relative;
+    top: 200px;
+}
+
+.lacarta {
+    color: brown;
+    font-family: Arial; 
+}
+
+.texto {
+    color: rgb(194, 6, 6);
+}
